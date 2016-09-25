@@ -1,7 +1,6 @@
-# All About Asp.net Core
+# ASP.NET CORE FROM THE GROUND UP
 
-This book is for any individual who wants to get a deeper understanding of .net core and asp.net core . With the information you pick up from this book, you learn basics to advanced techniques. The book begins at the absolute starting point of asp.net core ,takes you through all new concepts of asp.net core and then slowly introduces you to using those concepts to build your application.
-
+Welcome to the book ASP.NET CORE FROM THE GROUND UP .If you are reading this,chances are that you would like to learn a thing or two about asp.net core. I decided to write this because I wanted to solidify my own knowledge of ASP.NET CORE and I thought I could help people new to ASP.NET CORE learn it from my perspective. There are quite a few tutorials on asp.net core floating around on the internet.Official documentation https://docs.asp.net/en/latest/ is a good starting point.But When I was starting out in asp.net core, I didn't learn from just one resource. So this is an attempt at adding another useful resource for learning asp.net core ,hope you like it.
 
 This book has multiple versions(in draft stage)
 
