@@ -11,8 +11,7 @@ ASP.NET CORE contains all the required components for creating modern web applic
 * MVC pattern 
 * Simplest possible viewnengine for WEB UI (Razor ViewEngine)
 * Built in Dependency Injection
-* Best in class O/RM (EFCore)
-* Expressive Beautiful Syntax
+* Best in class O/RM (EFCore) with Expressive Beautiful Syntax (LINQ)
 * Easy integration of Modern Client side frameworks 
 * Built in support for package management (Nuget packages)
 
