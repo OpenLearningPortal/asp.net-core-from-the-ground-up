@@ -1,4 +1,4 @@
-# ASP.NET CORE Basic Features
+# ASP.NET CORE Highlights
 
 ASP.NET Core is a complete redesign of ASP.NET.For those who don't know, ASP.NET is web application framework runs on top of Full .Net Framework\(1.1 to 4.6\) from Microsoft mainly targeted for Windows.Though you could run asp.net applications on Mono open source framework on other platforms,it was not fully compatible and supported by Microsoft .ASP.NET Core is designed from ground up to run on .NET CORE runtime \(which is a cross platform port of .NET framework from Microsoft\) and fully supported by Microsoft.
 
@@ -34,14 +34,14 @@ Entity Framework (EF) Core is a lightweight and extensible version of the popula
 
 #### Beautiful Syntax
 
-`
-using (var db = new BloggingContext()) {
+
+`using (var db = new BloggingContext()) {
  var blogs = db.Blogs 
     .Where(b => b.Rating > 3) 
     .OrderBy(b => b.Url) .ToList(); 
-}
+}`
 
-`
+
 
 ### Cloud ready Confoguration System
 
@@ -53,5 +53,5 @@ ASP.NET Core supports a variety of different configuration options. Application 
 .NET CORE supports built in package management where your dependencies or versioning can be easily managed . .NET Core runtime  or asp.net core can be aquired using a direct installation or as nuget package.
 e.g. Microsoft.NETCore . 
 
-This allows you to optimize your app to include just the NuGet packages you need
+
 
