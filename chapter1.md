@@ -32,7 +32,7 @@ ASP.NET Core is designed from the ground up to support and leverage dependency i
 
 Entity Framework (EF) Core is a lightweight and extensible version of the popular Entity Framework data access technology.EF Core is an object-relational mapper (O/RM) that enables .NET developers to work with a database using .NET objects. It eliminates the need for most of the data-access code that developers usually need to write. EF Core supports many database engines such as Microsfot SQL Server,Postgres,MySQL,SQlLite etc
 
-### Beautiful Syntax
+#### Beautiful Syntax
 
 `
 using (var db = new BloggingContext()) {
@@ -43,6 +43,15 @@ using (var db = new BloggingContext()) {
 
 `
 
+### Cloud ready Confoguration System
+
+ASP.NET Core supports a variety of different configuration options. Application configuration data can come from files using built-in support for JSON, XML, and INI formats, as well as from environment variables, command line arguments or an in-memory collection
 
 
+### Ships as a Nuget package
+
+.NET CORE supports built in package management where your dependencies or versioning can be easily managed . .NET Core runtime  or asp.net core can be aquired using a direct installation or as nuget package.
+e.g. Microsoft.NETCore . 
+
+This allows you to optimize your app to include just the NuGet packages you need
 
