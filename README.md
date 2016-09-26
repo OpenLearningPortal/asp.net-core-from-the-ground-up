@@ -4,11 +4,36 @@ Welcome to the book ASP.NET CORE FROM THE GROUND UP .If you are reading this,cha
 
 ## [What is ASP.NET Core?](https://docs.asp.net/en/latest/intro.html#id1)
 
-
 ASP.NET Core is a new open-source and cross-platform framework for building modern applications, such as web apps, restful services or mobile backends. ASP.NET Core apps can run on .NET Core or on the full .NET Framework
 
-![asp.netcore overview](/assets/aspnetcore.png)
+## Why use asp.net core ?
 
+### Developer friendly.
+
+* Choice of languages - The C\# and F\# languages \(Visual Basic is coming\) can be used to write applications and libraries for ASP.NET Core.
+* Hit Refresh Workflow
+* Powerful console and build tools
+* Type safety
+* Easy extensibility of CLI
+* Cross Platform IDE Support \(VS Code,VS 2015 or use your favorite text editor\)
+
+### Scale easily
+
+* Code is compiled 
+* Runs on the .NET CORE Runtime
+* Very Light weight and production ready 
+* built in high performance web server \(Kestrel\) 
+
+### Cross Platform
+
+* Build and run cross-platform ASP.NET CORE apps on Windows, Mac and Linux
+* Open source and community focused
+
+### Built for Modern Web
+
+* Create web application or RESTFul services using the same MVC pattern
+* JSON is a first class citizen
+* Easily intergrate gulp grunt or webpack
 
 
 
