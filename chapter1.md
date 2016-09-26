@@ -31,8 +31,18 @@ ASP.NET Core is designed from the ground up to support and leverage dependency i
 
 ### Entity Framework Core
 
-Entity Framework (EF) Core is a lightweight and extensible version of the popular Entity Framework data access technology.EF Core is an object-relational mapper (O/RM) that enables .NET developers to work with a database using .NET objects. It eliminates the need for most of the data-access code that developers usually need to write. EF Core supports many database engines such as Microsfot SQL Server,Postgres,MySQl,SQlLite etc
+Entity Framework (EF) Core is a lightweight and extensible version of the popular Entity Framework data access technology.EF Core is an object-relational mapper (O/RM) that enables .NET developers to work with a database using .NET objects. It eliminates the need for most of the data-access code that developers usually need to write. EF Core supports many database engines such as Microsfot SQL Server,Postgres,MySQL,SQlLite etc
 
+### Beautiful Syntax
+
+`
+using (var db = new BloggingContext()) {
+ var blogs = db.Blogs 
+    .Where(b => b.Rating > 3) 
+    .OrderBy(b => b.Url) .ToList(); 
+}
+
+`
 
 
 
