@@ -1,4 +1,4 @@
-# Introduction to ASP.NET CORE
+#  ASP.NET CORE Basic Features
 
 ASP.NET CORE contains all the required components for creating modern web applications:
 
@@ -7,7 +7,11 @@ ASP.NET CORE contains all the required components for creating modern web applic
 * Built in Dependency Injection
 * also completely extensible that you can replace all these components of your choice.
 
+### MVC pattern 
+
 ASP.NET CORE MVC gives you a powerful, patterns-based way to build dynamic websites that enables a clean separation of concerns and that gives you full control over markup for enjoyable, agile development. ASP.NET MVC includes many features that enable fast, TDD-friendly development for creating sophisticated applications that use the latest web standards.
+
+### Razor Views
 
 ASP.NET Core Razor syntax provide a fast, approachable, and lightweight way to combine server code with HTML to create dynamic web content. It includes many more features that help you create beautiful sites that conform to the latest web standards.
 
