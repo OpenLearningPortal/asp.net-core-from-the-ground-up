@@ -4,5 +4,11 @@ Welcome to the book ASP.NET CORE FROM THE GROUND UP .If you are reading this,cha
 
 ## [What is ASP.NET Core?](https://docs.asp.net/en/latest/intro.html#id1)
 
-![](/assets/aspnetcore.png)
+
+ASP.NET Core is a new open-source and cross-platform framework for building modern applications, such as web apps, restful services or mobile backends. ASP.NET Core apps can run on .NET Core or on the full .NET Framework
+
+![asp.netcore overview](/assets/aspnetcore.png)
+
+
+
 
