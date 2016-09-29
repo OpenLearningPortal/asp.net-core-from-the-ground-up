@@ -32,12 +32,12 @@ e.g. Supported IDEs
 
 ### Cross Platform
 
+![](/assets/cross-platform.png)
+
 * Build and run cross-platform ASP.NET CORE apps on Windows, Mac and Linux
 * Open source and community focused
 
 ### Built for Modern Web
-
-
 
 ![](/assets/angularjs.png)![](/assets/nodejs.png)![](/assets/reactjs.png)
 
