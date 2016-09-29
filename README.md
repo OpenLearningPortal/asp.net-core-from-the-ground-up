@@ -27,9 +27,6 @@ e.g. Supported IDEs
 
 * Code is compiled 
 * Runs on the .NET CORE Runtime
-
-
-
 * Very Light weight and production ready 
 * built in high performance web server \(Kestrel\) 
 
@@ -40,6 +37,11 @@ e.g. Supported IDEs
 
 ### Built for Modern Web
 
+
+
+![](/assets/angularjs.png)![](/assets/nodejs.png)![](/assets/reactjs.png)
+
+* Easily integrate with angular or react 
 * Create web application or RESTFul services using the same MVC pattern
 * JSON is a first class citizen
 * Easily intergrate gulp grunt or webpack
