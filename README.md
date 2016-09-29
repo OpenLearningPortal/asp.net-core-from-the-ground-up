@@ -17,13 +17,11 @@ ASP.NET Core is a new open-source and cross-platform framework for building mode
 * Easy extensibility of CLI
 * Cross Platform IDE Support \(VS Code,VS 2015 or use your favorite text editor\)
 
-
-
 Supported IDEs
 
+![](/assets/vscode.png)![](/assets/atom.png)![](/assets/brackets.png)
 
-
-![](/assets/atom.png)
+![](/assets/sublimetext.png)![](/assets/vim.png)
 
 ### Scale easily
 
@@ -31,8 +29,6 @@ Supported IDEs
 * Runs on the .NET CORE Runtime
 * Very Light weight and production ready 
 * built in high performance web server \(Kestrel\) 
-
-
 
 ### Cross Platform
 
