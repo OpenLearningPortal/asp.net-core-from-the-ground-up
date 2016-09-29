@@ -41,7 +41,7 @@ e.g. Supported IDEs
 
 ![](/assets/angularjs.png)![](/assets/nodejs.png)![](/assets/reactjs.png)
 
-* Easily integrate with angular or react 
+* Easily integrate with angular or react or npm packages like grunt,gulp or webpack etc
 * Create web application or RESTFul services using the same MVC pattern
 * JSON is a first class citizen
 * Easily intergrate gulp grunt or webpack
