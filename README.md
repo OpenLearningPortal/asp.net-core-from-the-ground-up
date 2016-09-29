@@ -8,7 +8,7 @@ ASP.NET Core is a new open-source and cross-platform framework for building mode
 
 ## ASP.NET CORE is
 
-### Developer friendly.
+## ![](/assets/dev friendly.png)Developer friendly.
 
 * Choice of languages - The C\# and F\# languages \(Visual Basic is coming\) can be used to write applications and libraries for ASP.NET Core.
 * Hit Refresh Workflow
