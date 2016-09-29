@@ -29,6 +29,8 @@ e.g. Supported IDEs
 * Runs on the .NET CORE Runtime
 
 
+![](/assets/clrvm.PNG)
+
 * Very Light weight and production ready 
 * built in high performance web server \(Kestrel\) 
 
